@@ -40,6 +40,8 @@ Little MountEFI by Max.1974 - Open / Close your EFI partition with double click 
 - macOS 10.13 or later.
 - AppleScript support.
 - May require Automation permission (System Settings > Privacy > Automation).
+- ⚠️ Compatible only with x86-based systems (Intel/AMD), including Intel Macs and Hackintosh setups.
+
 
 ## 💡 Tips
 
